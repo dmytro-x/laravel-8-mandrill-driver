@@ -32,7 +32,7 @@ class MandrillTransport extends Transport
     private $headers;
 
     /**
-     * @var array
+     * @var string
      */
     public $mandrillFullResponse;
 
