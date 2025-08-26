@@ -2,7 +2,7 @@
 
 This package allowed to use Mandrill driver functionality in Laravel 8.
 
-Be careful. Laravel 9 use Swift Mail, which not supported by this Package. 
+Be careful. Laravel 9+ use Symfony Mailer, which not supported by this Package. 
 
 You can install this package via composer:
 
